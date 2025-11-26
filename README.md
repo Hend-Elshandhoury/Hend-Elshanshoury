@@ -5,7 +5,7 @@
 🚀 I'm a Frontend Developer passionate about building modern, responsive, and high-performance web applications using **React**, **Next.js**, and **TypeScript**.  
 🎯 I enjoy clean code, beautiful UI, and exploring new technologies to improve user experiences.
 
----
+
 
 ### 🔥 About Me
 
